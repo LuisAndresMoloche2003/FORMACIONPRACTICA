@@ -29,7 +29,7 @@ if espacio == True:
 if long < 10:
     print("La contraseña debe contener como minimo 10 caracteres")
 else:
-    print("Contraseña valida")
+    print("La contraseña es valida")
 print('-' * 60)
 
 
