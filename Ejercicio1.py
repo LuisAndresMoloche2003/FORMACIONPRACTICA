@@ -1,5 +1,5 @@
 print('-' * 60)#Probando12343444
-print('-' * 15 + 'BIENVENIDOS A ESTA APLICACION' + '-' * 16)
+print('-' * 20 + 'BIENVENIDOS A ESTA APLICACION' + '-' * 20)
 print('-' * 60)
 password = input('Ingrese contraseña: ')
 long = len(password)
