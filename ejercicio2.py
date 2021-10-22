@@ -1,3 +1,4 @@
+
 nombre=["Arturo","Huapaya","Moloche","Marycielo","Sebastian","Ariana","Rosa","Angello","Mario"]
 contra=["A122","A123","A124","A125","A126","Ari123","Rosi123","Angel123","Mario123"]
 paclave=["A1","A2","A3","A4","A5","A6","A7","A8","A9","A10"]
