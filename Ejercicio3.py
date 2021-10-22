@@ -47,5 +47,5 @@ print(f'IGV: {igv}')
 print(f'Total: {total}')
 print('-' * 60)
 
-
+#trabajoterminado
 
