@@ -1,4 +1,4 @@
-print('-' * 60)
+print('-' * 60000000)
 print('-' * 15 + 'BIENVENIDOS A ESTA APLICACION' + '-' * 16)
 print('-' * 60)
 password = input('Ingrese contraseña: ')
@@ -29,7 +29,7 @@ if espacio == True:
 if long < 10:
     print("La contraseña debe contener como minimo 10 caracteres")
 else:
-    print("Contraseña valida")
+    print("La contraseña es valida")
 print('-' * 60)
 
 
