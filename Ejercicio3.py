@@ -1,6 +1,12 @@
+
 codigo=["A0001","A0002","A0003","A0004","A0005","A0006","A0007"]
 producto=["shampoo","cepillo","colinos","jabon","enjuague bocal","Papel higuienico","Toalla"]
 precio=[15,10,12,13,15]
+
+codigo=["A0-01","A0-02","A0-03","A0-04","A0-05"]
+producto=["Shampoo","Cepillo","Colinos","Jabon","Enjuague bocal"]
+precio=[16,8,13,12,16]
+
 ingreso=[]
 cantidad=[]
 subtotal = 0
@@ -47,5 +53,5 @@ print(f'IGV: {igv}')
 print(f'Total: {total}')
 print('-' * 60)
 
-
+#trabajoterminado
 
