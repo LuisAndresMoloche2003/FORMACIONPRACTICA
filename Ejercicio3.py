@@ -1,5 +1,5 @@
-codigo=["A0001","A0002","A0003","A0004","A0005"]
-producto=["shampoo","cepillo","colinos","jabon","enjuague bocal"]
+codigo=["A0001","A0002","A0003","A0004","A0005","A0006","A0007"]
+producto=["shampoo","cepillo","colinos","jabon","enjuague bocal","Papel higuienico","Toalla"]
 precio=[15,10,12,13,15]
 ingreso=[]
 cantidad=[]
