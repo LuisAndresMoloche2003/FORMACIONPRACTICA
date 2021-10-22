@@ -1,7 +1,7 @@
 print('=' * 60000000)
 print('=' * 15 + ' BIENVENIDOS A ESTA APLICACION ' + '=' * 16)
 print('=' * 60)
-password = input('Ingrese contraseña: ')
+password = input('Ingrese su contraseña: ')
 long = len(password)
 espacio = False
 mayuscula = False
