@@ -1,6 +1,6 @@
 codigo=["A0-01","A0-02","A0-03","A0-04","A0-05"]
 producto=["Shampoo","Cepillo","Colinos","Jabon","Enjuague bocal"]
-precio=[15,10,12,13,15]
+precio=[20,7,13,12,16]
 ingreso=[]
 cantidad=[]
 subtotal = 0
